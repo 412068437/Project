@@ -1,0 +1,23 @@
+{
+  "name": "Myd001",
+  "version": "0.0.1",
+  "description": "Project\r =======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/412068437/Project.git"
+  },
+  "author": "Myd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/412068437/Project/issues"
+  },
+  "homepage": "https://github.com/412068437/Project",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-uglify": "^0.4.0"
+  }
+}
